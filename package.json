@@ -1,0 +1,20 @@
+{
+  "name": "restaurant-ai-system",
+  "version": "1.0.0",
+  "description": "AI-powered system that helps restaurants manage dishes, ingredients, and allergies, enabling staff to quickly accommodate guest needs and improve training with accurate, consistent knowledge of the restaurant offerings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrijanGupta65/Restaurant-AI-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrijanGupta65/Restaurant-AI-System/issues"
+  },
+  "homepage": "https://github.com/SrijanGupta65/Restaurant-AI-System#readme"
+}
